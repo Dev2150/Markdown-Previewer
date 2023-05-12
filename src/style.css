@@ -1,0 +1,11 @@
+#app {
+  display: flex;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+
+#editor {
+  width: 50%;
+  min-height: 100px;
+  border-radius: 10px;
+}
